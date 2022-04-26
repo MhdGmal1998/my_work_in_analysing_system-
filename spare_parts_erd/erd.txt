@@ -5,3 +5,4 @@ The features
  - manage users supported when the user is admin role .
  - manage invoice 
  - multiple user : admin, system user, cashier, customer 
+g
