@@ -1,1 +1,7 @@
+this is simple erd for spare parts. 
 
+The features 
+ - role supported 
+ - manage users supported when the user is admin role .
+ - manage invoice 
+ - multiple user : admin, system user, cashier, customer 
